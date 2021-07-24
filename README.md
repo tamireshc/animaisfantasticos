@@ -1,3 +1,3 @@
 # animaisfantasticos
-Projeto em JavaScript
+Projeto em JavaScript </br>
 https://tamireshc.github.io/animaisfantasticos/
